@@ -1,0 +1,16 @@
+import java.util.Arrays;
+public class basic1 {
+
+	public static void main(String[] args) {
+      
+//		String myAr[]={"Cat","Dog","Apple","Boy"};
+//		Arrays.sort(myAr);
+//		for(int num=0;num<myAr.length;num++){
+//			System.out.println(myAr[num]+"");
+		int num=4;
+		System.out.println("Square number is" +Math.pow(num,2));
+		System.out.println("Square number is" +Math.sqrt(num));
+		
+	}
+
+}

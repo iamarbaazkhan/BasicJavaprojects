@@ -1,0 +1,12 @@
+
+public class basic1 {
+
+	public static void main(String[] args) {
+      
+		int num[]= new int[5];
+		num[2]=800;
+		num[3]=700;
+		System.out.println(num[2]+num[2]);
+	}
+
+}

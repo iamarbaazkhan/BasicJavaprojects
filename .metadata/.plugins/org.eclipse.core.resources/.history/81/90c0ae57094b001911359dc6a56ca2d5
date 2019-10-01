@@ -1,0 +1,13 @@
+
+public class basic1 {
+
+	public static void main(String[] args) {
+      
+		int myArray[]= new int[3];
+		myArray[0]=100;
+		myArray[1]=200;
+		myArray[2]=300;
+		System.out.println(myArray);
+	}
+
+}

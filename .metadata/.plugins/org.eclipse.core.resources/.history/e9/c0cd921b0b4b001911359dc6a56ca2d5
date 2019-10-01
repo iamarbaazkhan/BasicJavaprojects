@@ -1,0 +1,11 @@
+
+public class basic1 {
+
+	public static void main(String[] args) {
+      
+		int myr[]={10,20,30,40};
+		int num=myr.length;
+		System.out.println(num);
+	}
+
+}
